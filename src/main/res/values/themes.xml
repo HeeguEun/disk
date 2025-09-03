@@ -1,0 +1,6 @@
+﻿<resources>
+    <style name="Theme.SuNote1" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:forceDarkAllowed">true</item>
+    </style>
+</resources>
